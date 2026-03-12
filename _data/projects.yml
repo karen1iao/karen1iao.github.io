@@ -1,8 +1,15 @@
 # projects section data
-- name: A repo with workflow, that downloads the current Pay-As-You-Go prices from Azure once a month and saves them in ~40MB files
+- name: CAPP30122 Project - Political Narrative Navigator 
   gh_user: karen1iao
   repo: project-sentimeter
-  img: '/images/graphs1.jpg'
+  img: '/images/graphs1.png'
+  video_url: '  video_url: 'https://drive.google.com/file/d/1hsBn_nMEz3CIiCyIwVzffFynoKf4ftwV/view'
+  description: |
+    The project repo is private but could be available to share upon request. 
+    A tool that analyzes how political narratives match the topics people care about most.
+    The objective of this project is to analyze U.S. presidential campaign speeches and examine how closely they align with public opinion. 
+    The project addresses two main questions: 1.Do candidates’ speeches reflect the issues voters care about?  What is the relationship between voter priorities and political speech?  To investigate these questions, we analyze campaign speeches from the 2016, 2020, and 2024 U.S. presidential elections. Using text analysis, we identify the most prominent themes in each candidate’s speeches and compare them with public opinion data from YouGov.  The final project dashboard visualizes the degree of alignment between political narratives and public issue priorities. It allows users to explore key themes in presidential campaign speeches and assess how well those themes reflect public concerns.  In addition, the dashboard provides issue-by-issue analysis, enabling users to examine how frequently specific topics appear in candidates’ speeches and compare those frequencies with corresponding public opinion at the time.
+   
 
 # - name: A regular rebuild and hosting of the TOR snowflake project (to provide access to censored websites)
 #   gh_user: tzuehlke
